@@ -1,0 +1,66 @@
+C(+216) 54 527 548
+DHOUIB Mahdi
+Mdhouib.mahdi@enis.tn
+in Dhouib mahdi
+Motivé et rigoureux, je combine expertise en mathématiques, apprentissage automatique et génie logiciel avec une réelle passion
+pour le travail en équipe. Je souhaite contribuer activement á des projets innovants tout en développant mes compétences au sein
+d'une organisation dynamique
+EXPÉRIENCE PROFESSIONNELLE
+Classification des spectres NIR par Deep Learning
+OEM Engineering,Eagle Vizion(Sfax, Tunisie/Sherbrooke,
+Canada) Février-September 2025
+. Conception d'un pipeline de classification de spectres NIR en temps réelle et détection des classes inconnues.
+. Développement d'une interface interactive de visualisation et prédiction.
+. Industrialisation du modéle (TensorFlow Lite, exécutable, MLOps).
+Stage Développement Opérationelle
+Proged International(Sfax, Tunisie) Juillet-Aoüt 2024
+. Développement et intégration d'une application Power Apps dans un environnement Azure DevOps.
+. Mise en place de pipelines Ci/CD pour automatiser le déploiement de l'application.
+PROJETS PERSONNELS
+Systéme RAG Agentique et Adaptatif
+. Dévelopement d'un agent autonome capable d'arbitrer dynamiquement entre la base de connaissances interne et la recherche web
+externe pour garantir une pertinence contextuelle optimale
+. Architecture cyclique avec LangGraph préservant I'état conversationnel, permettant un raisonnement multi-étapes et des boucles
+d'affinement de requétes dépassant les pipelines linéaires.
+Classification des os normaux/anormaux basée sur l'apprentissage profond
+. Classification binaire des images aprés prétraitement pour déterminer l'état de l'os.
+. Assistance aux professionnels de santé pour des diagnostics rapides et précis
+Projet Développement d'applications Web
+. Développement d'un site web de gestion pour un laboratoire de recherche, avec publication de travaux et gestion des profils
+. Fonctionnalités pour les visiteurs et une interface administrateur pour la gestion des membres, publications et événements.
+Détection des signes des mains
+. Conception d'un systéme de vision par ordinateur capable de détecter et analyser les gestes de la main en temps réel.
+ Implémentation d'une application de traduction, convertissant chaque geste du langage des signes en lettres alphabétiques pour
+faciliter la communication.
+EDUCATION
+GENIE INFORMATIQUE, Ecole Nationale des études d'Ingénieurs de Sfax
+De septembre 2022-septembre 2025
+CYCLE PREPARATOIRE (mathématiques &Physique ), cycles preparatoire á la faculté des sciences
+Septembre 2020 - Juillet 2022
+BACCALAURéAT SESSION PRINCIPALE, Lycée Mahmoud Megdich Sfax ; Filiére: Mathématiques
+Session 2020
+COMPÉTENCES
+Langues: Arabe, Francais(B2), Anglais(B2)
+Data Science et IA:
+- Bibliothéques: TensorFlow, Keras, PyTorch, NumPy, Scikit-learn
+Languages de Programmation: Python,Java,C++,Latex
+- Concepts: NLP, Computer Vision, Transformers, Fine-tuning, LLMs,
+Dévelopement Web/Frameworks: HTML, CSS, JavaScript,
+RAG, Prompt Engineering
+TypeScript, PHP,Angular, Spring Boot, React
+- frameworks et Outils: LangChain, LanGraph, Hugging Face, FastAPI,
+Base de Données: MySQL, Vector DB, Qdrant
+Docker, Git
+CERTIfiCATS ET COMPÉTITIONS
+Certificat NVIDIA de Création d'agents RAG avec LLM
+certification de Docker Training Course
+Certificat NVIDIA des Fondamentaux de l'Apprentissage Profond
+certification de Scrum Fundamentals
+ certification de MS-900 Microsoft 365 Fundamentals
+Premiére place ä la compétition Enif (Eco-santé)
+certification de AWS Cloud Practitioner
+Deuxiéme place ä la compétiton techx
+VIE ASSOCIATIVE
+membre organisateur active dans le forum du département génie informatique et mathématiques appliquées (Pitch Yourself For A
+Career 8,9 10) (2022/2023/2024)
+. Membre active en IEEE Robotic and Automation Society (2022/2023)
