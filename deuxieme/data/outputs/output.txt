@@ -1,0 +1,50 @@
+RACHELLE
+lNVOlCE #246
+BEAUDRY
+Really Great Company
+BILLED TO:
+PAY TO:
+Rachelle Beaudry
+123 Anywhere St., Any City, ST 12345
+123-456-7890
+Bank
+Really Great Bank
+Account name
+John Smith
+BSB
+000-000
+Account number
+0000 0000
+DESCRIPTION
+RATE
+HOURS
+AMOUNT
+Website wireframe
+$50/hr
+2
+$100.00
+$50/hr
+Content plan
+2
+$100.00
+Newsletter design
+$50/hr
+2
+$100.00
+Branding
+$50/hr
+4
+$200.00
+Social media writing
+$50/hr
+4
+$200.00
+Subtotal
+$700.00
+Package discount (20%)
+$140.00
+TOTAL
+$560.00
+Payment is required within 14 business days of invoice date. Please send
+remittance to hello@reallygreatsite.com.
+Thank you for your business.
