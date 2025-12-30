@@ -3,7 +3,7 @@ import cv2
 import re
 from paddleocr import PaddleOCR
 
-ocr = PaddleOCR(use_angle_cls=True, lang='fr')
+ocr = PaddleOCR(use_angle_cls=True, lang='en')
 
 def clean_text(text):
     text = text.strip()
